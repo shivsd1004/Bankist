@@ -38,7 +38,7 @@ The Bankist Landing Page project aims to provide a user-friendly and visually ap
 
 ## Screenshots
 
-![Screenshots](img/screenshot.png)
+![Screenshots](img/Screenshot.png)
 
 ## Getting Started
 
